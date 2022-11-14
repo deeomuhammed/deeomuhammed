@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PORn9SzEmKyXxZ-fzv_zXveLNpH-wT1i/view?usp=sharing](https://drive.google.com/file/d/1PORn9SzEmKyXxZ-fzv_zXveLNpH-wT1i/view?usp=sharing)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1PORn9SzEmKyXxZ-fzv_zXveLNpH-wT1i/view?usp=sharing](https://drive.google.com/file/d/1PORn9SzEmKyXxZ-fzv_zXveLNpH-wT1i/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
