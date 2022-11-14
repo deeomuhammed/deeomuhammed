@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Muhammed Do</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-- 🔭 I’m currently working on **Nazal App**
+<!-- - 🔭 I’m currently working on **Nazal App**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter** -->
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1PORn9SzEmKyXxZ-fzv_zXveLNpH-wT1i/view?usp=sharing](https://drive.google.com/file/d/1PORn9SzEmKyXxZ-fzv_zXveLNpH-wT1i/view?usp=sharing) -->
 
